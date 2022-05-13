@@ -1,0 +1,76 @@
+{
+  "expireTime": 9007200907166146000,
+  "key": "f535800ef8d98de986b0814217b05faf",
+  "val": {
+    "name": "IMAGE_PROCESSING",
+    "inputPaths": [
+      "/Users/SentoSornosa/Desktop/a/portfolio/src/images/mtbg.jpg"
+    ],
+    "outputDir": "/Users/SentoSornosa/Desktop/a/portfolio/public/static/883b493887e8c44bfc386ac52a9abe16",
+    "args": {
+      "isLazy": false,
+      "operations": [
+        {
+          "outputPath": "52316/mtbg.jpg",
+          "args": {
+            "width": 342,
+            "cropFocus": 17,
+            "toFormat": "jpg",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "46afd/mtbg.jpg",
+          "args": {
+            "width": 683,
+            "cropFocus": 17,
+            "toFormat": "jpg",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "1abfa/mtbg.jpg",
+          "args": {
+            "width": 1366,
+            "cropFocus": 17,
+            "toFormat": "jpg",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "f6cee/mtbg.jpg",
+          "args": {
+            "width": 2049,
+            "cropFocus": 17,
+            "toFormat": "jpg",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "95685/mtbg.jpg",
+          "args": {
+            "width": 2642,
+            "cropFocus": 17,
+            "toFormat": "jpg",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        }
+      ],
+      "pluginOptions": {
+        "base64Width": 20,
+        "forceBase64Format": "",
+        "useMozJpeg": false,
+        "stripMetadata": true,
+        "lazyImageGeneration": true,
+        "defaultQuality": 50,
+        "failOnError": true,
+        "plugins": []
+      }
+    }
+  }
+}

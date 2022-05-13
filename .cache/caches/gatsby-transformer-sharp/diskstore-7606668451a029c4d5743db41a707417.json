@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200907166146000,
+  "key": "edef26106c3f0d377af960d75ba05db3{\"background\":\"rgba(0,0,0,1)\",\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":16}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB0UlEQVQ4y5WSyXITMRCGR2ppVmt2z3iC492JDUklFCEcDMUxBy5Qxfu/yk9LNqQK20nm8JfU6tLXqzeZTOB5Xi8REYIgRBQNkCQNmnaDxXKHu/uf8JqmgRCiF1AICaV8aB0jDCsUxQLjy0/YbJ+s3+sJU5xhzLAMflAxsMXAXKIevsd0uusHFMKWWiLL5wzYOuXFEmk+Q1Gt0XUf+2ZI3LML7tkNl/iId+MHB02zGUw6QVGujoG+8BBKgYEiZ0tJUKTcqf0EUdxg2Hxw0KJcO1AYNpx5xb7RMdAogdrnpvOgiOERT1QdoFqH/DlDnLRIBp0biO2nlIETUXIMjEk4qIXZbC8ijWVmsGi5JFNBHjbC52xtxs9/7bs838NcE0YBYV032D0+4fu331gtPsOYEe9f/lKvTzuM1hjVY5isw8OXH9h9/YWy6lDXMz7n54Hi/9WwgziUIElDqwBpWmM4ZLgp3EITBc53EhiKv4BnoHp1fTiYPAMs5GmADeKzbMCIB+Gz5Ft2teOJxmIPpUN2AduGA9U88Zb9LZ+l3L+/ClyFEhZak/dPFjLWAvNAwvqXfFo7lfuWvAi8TRQ2EWFrFZO7X0fSydpWV3yf+gL5G4B/AJZdWT/m7rPIAAAAAElFTkSuQmCC",
+    "width": 20,
+    "height": 16,
+    "aspectRatio": 1.25,
+    "originalName": "ignis.png"
+  }
+}
